@@ -939,10 +939,11 @@ export default function App() {
                     </div>
                   </div>
                 );
-              })}
+              })
+            }
             </div>
           </div>
-        )}
+                )}
 
         {/* ══════════════════════════════════
             PAGE 3 — 設定
